@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+    <body>
+        <hl>abada</hl>
+        <p>ma</p>
+        <h1>Text line 1 <br> Text lin 2</h1>
+        <p>O</p>
+        <img 
+        src="https://m.media-amazon.com/images/I/51Kyy8LrIhL._AC_SX300_SY300_QL70_ML2_.jpg"/>
+    </body>
+</html>
